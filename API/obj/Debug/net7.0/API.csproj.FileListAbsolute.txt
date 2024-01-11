@@ -73,3 +73,8 @@ C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\Humanizer.dll
 C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\MediatR.dll
+C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Sites\reactivities\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
